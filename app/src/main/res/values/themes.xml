@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.FemboyPerfBrowser" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#ae7bd4</item>
+        <item name="colorSecondary">#efaed3</item>
+        <item name="android:windowBackground">#fbf7ff</item>
+    </style>
+</resources>
